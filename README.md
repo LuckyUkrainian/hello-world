@@ -1,4 +1,5 @@
 # hello-world
 
-Studying Git/GitHub to understand my customer's processes better.
-Also  hope to collaborate with others.
+Who would think I'll open this file once more ? ;)
+
+This README is useless. Go look at the index.HTML.
